@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+.venv/
+ENV/
+
+# Large dataset folders (Common Voice)
+commonvoice_en/
+commonvoice_hi/
+
+# Processed audio/embeddings
+processed_en/
+processed_hi/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio files (optional, include only tiny samples)
+*.wav
+*.mp3
+*.flac
+*.npy
+
+# Environment config
+.env

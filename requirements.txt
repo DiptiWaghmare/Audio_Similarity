@@ -1,0 +1,5 @@
+streamlit
+librosa
+torch
+scikit-learn
+pyannote.audio
