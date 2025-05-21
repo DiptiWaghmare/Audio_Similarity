@@ -6,7 +6,7 @@ from huggingface_hub import login
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Login using Streamlit secret
-login(token=os.getenv("HUGGINGFACE_TOKEN"))
+login(token=os.getenv("HF_TOKEN"))
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 inference = Inference("pyannote/embedding", device=device)
