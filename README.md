@@ -47,7 +47,9 @@ This is a Streamlit-based web application that allows users to upload and compar
    cd audio-similarity-checker
 
 2. Install dependencies:
-      Note: The pyannote-audio library downloads models from [Hugging Face](https://huggingface.co/) (e.g. pyannote/embedding). You’ll need to be logged into Hugging Face via CLI or API token, especially for some models that require authentication.
+
+Note: The pyannote-audio library downloads models from [Hugging Face](https://huggingface.co/) (e.g. pyannote/embedding). You’ll need to be logged into Hugging Face via CLI or API token, especially for some models that require authentication.
+
    ```bash
    pip install -r requirements.txt
 
