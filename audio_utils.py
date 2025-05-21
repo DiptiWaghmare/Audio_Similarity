@@ -13,3 +13,6 @@ def extract_embedding(file_path):
 
 def get_similarity_score(embedding1, embedding2):
     return float(cosine_similarity(embedding1, embedding2)[0][0])
+
+
+
