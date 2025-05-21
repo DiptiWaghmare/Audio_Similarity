@@ -1,8 +1,10 @@
 # 🔊 Audio Similarity Checker
 This is a Streamlit-based web application that allows users to upload and compare two audio files to determine how similar they sound. The tool visualizes waveforms and computes a similarity score using audio embeddings.
 ![app_overview](https://github.com/user-attachments/assets/90c437ce-ec07-4610-8cbe-051d04fccc66)
-![image](https://github.com/user-attachments/assets/640d45bc-7601-4234-acd5-92c1bc55f1ac)
-![image](https://github.com/user-attachments/assets/1f2236f2-ecd5-446e-9351-dd89c788bb2a)
+![Uploading_audios](https://github.com/user-attachments/assets/640d45bc-7601-4234-acd5-92c1bc55f1ac)
+![Audios_similar](https://github.com/user-attachments/assets/1f2236f2-ecd5-446e-9351-dd89c788bb2a)
+![Audios_not_similar](https://github.com/user-attachments/assets/be7af023-eda6-49a1-a3f6-0500c1edd4d7)
+
 
 
 ## 🧠 Features
