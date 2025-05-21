@@ -38,7 +38,7 @@ This is a Streamlit-based web application that allows users to upload and compar
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/audio-similarity-checker.git
+   git clone https://github.com/DiptiWaghmare/Audio_Similarity.git
    cd audio-similarity-checker
 
 2. Install dependencies:
@@ -57,3 +57,5 @@ The similarity score is computed using pre-trained audio embeddings. If the scor
 ## 🔒 Disclaimer
 
 This tool is intended for research or demo purposes only and may not generalize perfectly to all audio types or languages.
+
+
