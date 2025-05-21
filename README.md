@@ -49,8 +49,7 @@ This is a Streamlit-based web application that allows users to upload and compar
 4. Run the app
    ```bash
    streamlit run app_streamlit.py
-
-
+   
 ## 📊 Similarity Score
 
 The similarity score is computed using pre-trained audio embeddings. If the score is above a threshold (default 0.7), the audios are considered similar.
